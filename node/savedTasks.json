@@ -1,1 +1,1 @@
-[]
+[{"name":"DotaCard node","cwd":"C:\\Users\\rafae\\Documents\\GitHub\\dotacard","commands":["node server.js",""],"id":"uid-146229443302745","autorun":true},{"name":"DotaCard grunt","cwd":"C:\\Users\\rafae\\Documents\\GitHub\\dotacard","commands":["grunt"],"id":"uid-146229443737188","autorun":false},{"name":"Yez tests","cwd":"C:\\Users\\rafae\\Documents\\GitHub\\yez","commands":["mocha node/tests --reporter spec"],"id":"uid-146248083126753"},{"name":"web inspector devtool","cwd":"C:\\Users\\rafae","commands":["devtool"],"id":"uid-146257466965950","autorun":false}]

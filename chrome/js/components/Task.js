@@ -192,6 +192,7 @@ var Task = absurd.component('Task', {
 		var filterResponse = function(str) {
 			str = str.replace(/</g, '&lt;');
 			str = str.replace(/>/g, '&gt;');
+			str = Autolinker.link(str);
 			return str;
 		}
 		switch(data.action) {

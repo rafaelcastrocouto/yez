@@ -13,15 +13,15 @@
 
 2. Run `yez` in your console
 
-3. Open Chrome browser and install the [extension](https://chrome.google.com/webstore/detail/yez/acbhddemkmodoahhmnphpcfmcfgpjmap)
+3. Open Chrome browser and open `http://localhost:9173`
 
-4. Open Chrome's DevTools and find the Yez! tab
+Optional:
 
-(Have in mind that when you run the backend of Yez! the app is available at http://localhost:9172/)
+4. Open Chrome browser and install the [extension](https://chrome.google.com/webstore/detail/yez/acbhddemkmodoahhmnphpcfmcfgpjmap)
 
-## Chrome extension shortcuts
+5. Open Chrome's DevTools `Ctrl+Shift+I` and find the Yez! tab. You can press `Ctrl+]` till you reach the needed tab.
 
-To open Yez! just press `Ctrl+Shift+I` which openes the DevTools console. Just after that press `Ctrl+]` till you reach the needed tab.
+## Shortcuts
 
 * `Ctrl+l` - clearing the command output panel
 * `Ctrl+Enter` - restarting the task
