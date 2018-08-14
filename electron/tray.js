@@ -7,7 +7,6 @@ var electron = require('electron'),
     mainWindow,
     open = require('open'),
     mainWindow,
-    BrowserWindow = electron.BrowserWindow,
     argv, 
     serverPID = false, 
     trayOn = true, 
@@ -131,6 +130,14 @@ electron.ipcMain.on('data', function(event, data) {
     if (data.theme == 'light') setLight();
     else setDark();
   }
+});
+
+electronApp.on('window-all-closed', function () { 
+  if (appIcon) { 
+    appIcon.destroy();
+    appIcon = null;
+  }
+  electronApp.quit();
 });
 
 electronApp.on('ready', start);
