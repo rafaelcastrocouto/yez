@@ -40,32 +40,3 @@ npm test
 * [Sorry, Chrome killed the terminal](http://krasimirtsonev.com/blog/article/Sorry-Chrome-killed-the-terminal)
 * [Developing Node.js applications with Google Chrome](http://krasimirtsonev.com/blog/article/Developing-Nodejs-applications-with-Google-Chrome)
 
-## Screenshots
-
-Using the extension as terminal
-
-![Yez!](http://krasimirtsonev.com/blog/articles/ChromeKilledTheTerminal/imgs/yez_01.gif)
-
-Creating a simple task
-
-![Yez!](http://krasimirtsonev.com/blog/articles/ChromeKilledTheTerminal/imgs/yez_02.gif)
-
-List of all added tasks
-
-![Yez!](http://work.krasimirtsonev.com/git/yez/yez-screenshot-1.jpg)
-
-Creating a task which runs the Yez! tests
-
-![Yez!](http://work.krasimirtsonev.com/git/yez/yez-screenshot-2.jpg)
-
-The result after runnning the task
-
-![Yez!](http://work.krasimirtsonev.com/git/yez/yez-screenshot-5.jpg)
-
-Creating a task which opens Twitter and checks the latest news about #nodejs
-
-![Yez!](http://work.krasimirtsonev.com/git/yez/yez-screenshot-3.jpg)
-
-The result after runnning the task
-
-![Yez!](http://work.krasimirtsonev.com/git/yez/yez-screenshot-4.jpg)
